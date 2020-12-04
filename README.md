@@ -13,4 +13,4 @@ The categories are:
 
 Abstracts were preprocessed, then TF-IDF vectors were created to use as input.  Other vectorization could be used.  Mostly default hyperparameters were used in order to demonstrate how to do classification.  Try using grid search to see if you can get better accuracy results.
 
-Last updated 12/4/20.
+Last updated 12/4/20. 
